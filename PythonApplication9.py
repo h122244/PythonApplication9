@@ -9,3 +9,6 @@ print(number+10)
 
 
 dsafadsgf
+
+1
+print('123456789')
